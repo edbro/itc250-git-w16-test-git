@@ -1,6 +1,8 @@
 <?php
+//item.php
 
-class Item {
+class Item 
+{
     
     public $name = '';
     public $description = '';
